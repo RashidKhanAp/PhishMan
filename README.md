@@ -23,11 +23,13 @@
 * `apt install git curl php wget -y`
 * `git clone git://github.com/RashidKhanAp/PhishMan.git`
 * `cd PhishMan`
+* `chmod +x *`
+* `ls`
 #### > Run : `bash PhishMan.sh`
 
 ## Single Command :
 ```
-apt update ; apt install git curl wget php -y ; git clone git://github.com/RashidKhanAp/PhishMan.git ; cd PhishMan ; bash PhishMan.sh
+apt update ; apt install git curl wget php -y ; git clone git://github.com/RashidKhanAp/PhishMan.git ; cd PhishMan ; chmod +x * ; ls ; bash PhishMan.sh
 ```
 <br>
 <p align="center">
